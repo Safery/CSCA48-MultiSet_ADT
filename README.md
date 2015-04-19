@@ -10,11 +10,11 @@ Created a MultiSet ADT using SkipList ADT.
 # MultiSet ADT:
 * In mathematics, a multiset (or bag) is a generalization of the concept of a set that, unlike a set, allows multiple instances of the multiset's elements. The multiplicity of an element is the number of instances of the element in a specific multiset.
 
-For example, an infinite number of multisets exist which contain elements a and b, varying only by multiplicity:
+  For example, an infinite number of multisets exist which contain elements a and b, varying only by multiplicity:
 
-The unique set {a, b} contains only elements a and b, each having multiplicity 1
-In multiset {a, a, b}, a has multiplicity 2 and b has multiplicity 1
-In multiset {a, a, a, b, b, b}, a and b both have multiplicity 3
+* The unique set {a, b} contains only elements a and b, each having multiplicity 1
+* In multiset {a, a, b}, a has multiplicity 2 and b has multiplicity 1
+* In multiset {a, a, a, b, b, b}, a and b both have multiplicity 3
 
 
 # Please Note:

@@ -1,6 +1,7 @@
 # CSCA48-MultiSet_ADT
 Created a MultiSet ADT using SkipList ADT.
 
+## INSTRUCTION TO USE THE CODE. READ BELOW!!
 
 # SkipList ADT:
 

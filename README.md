@@ -41,11 +41,17 @@ You can only use MultiSet (since MultiSet is built with SkipList). You are free 
 * From reading at the documents you can use many different codes in the MultiSet. Since it is a ADT you can do something like this
 
 '>>>' x = MultiSet()
+
 '>>>' y = MultiSet()
+
 '>>>' x.insert(1)
+
 '>>>' y.insert(1)
+
 '>>>' z = x + y
+
 '>>>' repr(z)  <-- (or you can just write 'z' alone)
+
 MultiSet(1 , 1) <-- (since 1 + 1 = 2) but remember this is an ADT (ie a list for noobies).
 
 
